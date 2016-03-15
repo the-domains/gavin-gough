@@ -4,23 +4,19 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.212909
 color:
-  saturation: 0.082306
-  brandStrength: 0.1577061
+  saturation: 0.4928315
+  brandStrength: 0.8154122
   lightness: 0.7506947
   brandColors:
-    - '#020203'
-    - '#303A4B'
-    - '#CFA391'
-    - '#F2F1F3'
-    - '#B4BEC5'
-  rhythmicContrast: 0.216975
-typography_spectrum: 0.212909
+    - '#4B5D7E'
+  rhythmicContrast: 0.6774194
 layout_spectrum: 0.8819677
 name: Gavin Gough

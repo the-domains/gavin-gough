@@ -1,26 +1,26 @@
-color:
-  saturation: 0.082306
-  brandStrength: 1
-  rhythmicContrast: 0.216975
-  brandColors:
-    - '#020101'
-    - '#91C9E6'
-    - '#774A39'
-    - '#4CA4CE'
-    - '#878880'
-  lightness: 0.7506947
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 0.8819677
+color:
+  saturation: 0.082306
+  brandStrength: 0.1577061
+  lightness: 0.7506947
+  brandColors:
+    - '#020203'
+    - '#303A4B'
+    - '#CFA391'
+    - '#F2F1F3'
+    - '#B4BEC5'
+  rhythmicContrast: 0.216975
 typography_spectrum: 0.212909
+layout_spectrum: 0.8819677
 name: Gavin Gough
